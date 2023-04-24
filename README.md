@@ -6,5 +6,6 @@
 -- https://www.npmjs.com/package/dotenv
 -- https://www.npmjs.com/package/sequelize
 -- https://www.npmjs.com/package/mysql2
+-- https://dev.mysql.com/doc/refman/8.0/en/creating-database.html
 
-actvityies 11, 13
+ORM actvityies 11, 13

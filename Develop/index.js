@@ -1,4 +1,4 @@
 require("dotenv").config();
 
-console.log(process.env.COMMERCE_USERNAME);
+console.log(process.env.DB_USER);
 
