@@ -1,12 +1,5 @@
 # ecommerce-spending
 
-## Table of Contents
- - Description
- - Installation
- - Usage
- - Testing
- - Credits
-
 ## Description
 This is a mysql database and application backend for an e-commerce site. This was built using MYSQL2, Express, Sequelize, and dotenv.
 
@@ -49,10 +42,15 @@ For visuals, watch the follow video for a walkthrough of Insomnia --> https://yo
 ## Credits
 
 -- dcode on YouTube https://www.youtube.com/watch?v=hZUNMYU4Kzo
+
 -- https://www.npmjs.com/package/dotenv
+
 -- https://www.npmjs.com/package/sequelize
+
 -- https://www.npmjs.com/package/mysql2
+
 -- https://dev.mysql.com/doc/refman/8.0/en/creating-database.html
+
 -- ChatGPT (syntax)
 
 ORM actvityies 11, 13, 24
