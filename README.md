@@ -44,7 +44,7 @@ npm run seed
 
 npm start
 
-For visuals, watch the follow video for a walkthrough of Insomnia -->
+For visuals, watch the follow video for a walkthrough of Insomnia --> https://youtu.be/x1RtJq4-6ro
 
 ## Credits
 
