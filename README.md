@@ -53,7 +53,7 @@ Clink the link for a complete walkthrough --> https://youtu.be/x1RtJq4-6ro
 
 -- ChatGPT (syntax)
 
-ORM actvityies 11, 13, 24
+ORM actvities 11, 13, 24
 
 
 ## License
